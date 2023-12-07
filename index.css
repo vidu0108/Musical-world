@@ -139,7 +139,7 @@ p{
 @media(max-width:570px)
 {
     body{
-        background-image: url('C:/Users/vidup/OneDrive/Desktop/musical-world/assets/images/Untitled.svg');
+        background-image: url('./assets/images/Untitled.svg');
         background-size:cover;
        
     }
